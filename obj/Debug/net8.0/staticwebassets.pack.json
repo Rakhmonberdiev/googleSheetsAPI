@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\ellipse.svg",
+      "PackagePath": "staticwebassets\\ellipse.svg"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\lenta.png",
+      "PackagePath": "staticwebassets\\lenta.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\main-PCJ6RQJX.js",
+      "PackagePath": "staticwebassets\\main-PCJ6RQJX.js"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\modal.png",
+      "PackagePath": "staticwebassets\\modal.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\polyfills-MH2GNY63.js",
+      "PackagePath": "staticwebassets\\polyfills-MH2GNY63.js"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\row-back.png",
+      "PackagePath": "staticwebassets\\row-back.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\scripts-QYHR5MO2.js",
+      "PackagePath": "staticwebassets\\scripts-QYHR5MO2.js"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\star.png",
+      "PackagePath": "staticwebassets\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\styles-KIHCEZM4.css",
+      "PackagePath": "staticwebassets\\styles-KIHCEZM4.css"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\tel1.png",
+      "PackagePath": "staticwebassets\\tel1.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\tel2.png",
+      "PackagePath": "staticwebassets\\tel2.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\texture.png",
+      "PackagePath": "staticwebassets\\texture.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\user.png",
+      "PackagePath": "staticwebassets\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\jmrax\\source\\repos\\googleSheetsAPI\\googleSheetsAPI\\wwwroot\\users_th.png",
+      "PackagePath": "staticwebassets\\users_th.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.googleSheetsAPI.props",
+      "PackagePath": "build\\googleSheetsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.googleSheetsAPI.props",
+      "PackagePath": "buildMultiTargeting\\googleSheetsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.googleSheetsAPI.props",
+      "PackagePath": "buildTransitive\\googleSheetsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.googleSheetsAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
